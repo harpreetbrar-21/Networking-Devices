@@ -15,6 +15,6 @@ different types of devices required to run this process are called Networking De
 
 - [Networking Devices](networking-devices.md)
 
--  [Download Networking-Devices Setup.pkt](./Networking-Devices%20Setup.pkt)
+- [Download Networking-Devices Setup.pkt](./Networking-Devices%20Setup.pkt)
 
-_
+- [Setup Devices](./setup%20devices.png)
