@@ -12,3 +12,6 @@ different types of devices required to run this process are called Networking De
 3. How devices work together.
 
 ## Resources:
+- networking-devices.md
+- 
+- 
